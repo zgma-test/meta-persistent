@@ -1,0 +1,70 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "508b2217-d028-49ab-8eb1-1537f5c437b5": {
+        "id": "508b2217-d028-49ab-8eb1-1537f5c437b5",
+        "parent": null,
+        "name": "MetaPersistent.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "MetaPersistent.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "MetaPersistent"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "508b2217-d028-49ab-8eb1-1537f5c437b5"
+    ],
+    "currentFileId": "508b2217-d028-49ab-8eb1-1537f5c437b5",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "MetaPersistent",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1591943736066
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "meta-persistent",
+      "url": "https://github.com/zgma-test/meta-persistent"
+    }
+  }
+}
